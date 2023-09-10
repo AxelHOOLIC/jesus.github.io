@@ -1,0 +1,8 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.cuerpo {
+    background: linear-gradient(180deg, #DBF3FF 0%, #34A5DB 63.54%, #34A5DB 100%);
+}
